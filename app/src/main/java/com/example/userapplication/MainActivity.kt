@@ -22,14 +22,14 @@ class MainActivity : AppCompatActivity() {
 
     }
     fun amountDisplay(){
-        val wallet1 =User_list ("sallary", "40,000", "1st july 2022")
-        val wallet2 =User_list ("sallary", "80,000", "2st july 2022")
-        val wallet3 =User_list ("sallary", "5,000", "1st august 2022")
-        val wallet4 =User_list ("sallary", "15,000", "1st september 2022")
-        val wallet5 =User_list ("sallary", "17,000", "1st december 2022")
-        val wallet6 =User_list ("sallary", "30,000", "1st January 2022")
-        val wallet7 =User_list ("sallary", "15,000", "1st september 2022")
-        val wallet8 =User_list ("sallary", "15,000", "1st september 2022")
+        val wallet1 =User_list ("sallary", "40,000", "1 july 2022")
+        val wallet2 =User_list ("Rent", "16,000", "2st july 2022")
+        val wallet3 =User_list ("Dividends", "2,400", "4 august 2022")
+        val wallet4 =User_list ("Electricity", "800", "5 september 2022")
+        val wallet5 =User_list ("Internet", "2500", "5 december 2022")
+        val wallet6 =User_list ("shopping", "3500", "5 January 2022")
+        val wallet7 =User_list ("bus fare", "500", "11 september 2022")
+        val wallet8 =User_list ("waterbill", "15,000", "1st september 2022")
         val wallet9 =User_list ("sallary", "15,000", "1st september 2022")
         val wallet10 =User_list ("sallary", "15,000", "1st september 2022")
         val wallet11 =User_list ("sallary", "15,000", "1st september 2022")

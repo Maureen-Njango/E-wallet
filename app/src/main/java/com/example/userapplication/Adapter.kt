@@ -26,7 +26,7 @@ class Adapter (var wallet:List<User_list>):RecyclerView.Adapter<walletviewHolder
         val walletlist=wallet[position]
         holder.tvsalary.text=walletlist.salary
         holder.tvamount.text = walletlist.amount
-        holder.tvdate.text = walletlist.amount
+        holder.tvdate.text = walletlist.date
 
 
 
